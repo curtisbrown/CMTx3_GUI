@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>SlotColumnData.qml</file>
+        <file>TestSequencePreparationWindow.qml</file>
     </qresource>
 </RCC>
