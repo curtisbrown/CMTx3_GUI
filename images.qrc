@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/gui">
+        <file>GUI/CMTx3.ico</file>
+        <file>GUI/Crash.png</file>
+        <file>GUI/Failed.png</file>
+        <file>GUI/Initial.jpg</file>
+        <file>GUI/Passed.png</file>
+        <file>GUI/Passed_Changed.png</file>
+        <file>GUI/Running.gif</file>
+        <file>GUI/Stopped.png</file>
+        <file>GUI/Unused.png</file>
+        <file>GUI/Waiting.png</file>
+        <file>GUI/CMTx3 Multi Modem Tester.png</file>
+    </qresource>
+</RCC>
